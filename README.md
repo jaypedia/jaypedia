@@ -1,4 +1,10 @@
-
+```js
+// My life motto 
+while (doubt) {
+  exercise();
+  if (tired) break;
+  sweatItOut();
+```
 
 <!--
 ### Hi, I'm Jay! 👋
