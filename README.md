@@ -1,7 +1,8 @@
 # Hi, I am Millie 😶‍🌫️
 
 [![Millie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypedia&show_icons=true&theme=buefy)](https://github.com/jaypedia/github-readme-stats)
-
+<br />
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jaypedia&layout=compact&theme=buefy)
 ## My tech stacks
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -9,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ## I'm currently learning...
