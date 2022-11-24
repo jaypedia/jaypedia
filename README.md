@@ -1,4 +1,4 @@
-# Hi, I am Millie 😶‍🌫️
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hello,%20I%20am%20Millie&fontSize=60)
 
 [![Millie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypedia&show_icons=true&theme=buefy)](https://github.com/jaypedia/github-readme-stats)
 <br />
@@ -25,9 +25,6 @@ while (doubt || worry) {
   sweatItOut();
 }
 ```
-
-## Contacts
-- Email: 21bm30@gmail.com
 
 <br />
 
