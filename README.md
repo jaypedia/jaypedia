@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hello,%20I%20am%20Millie&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I%20am%20Millie&fontSize=50&animation=twinkling)
 
 [![Millie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypedia&show_icons=true&theme=buefy)](https://github.com/jaypedia/github-readme-stats)
 <br />
@@ -30,3 +30,6 @@ while (doubt || worry) {
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaypedia&count_bg=%235B7CDA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
