@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello,%20I%20am%20Millie&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Wellcome%20to%20Jaypedia&fontSize=50&animation=twinkling)
 
 <div align="center" style="text-align:center">
  
